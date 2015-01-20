@@ -1,0 +1,10 @@
+Content\Ships\Ship1.xnb
+Content\Ships\Ship2.xnb
+Content\Ships\Ship3.xnb
+Content\Ships\Ship4.xnb
+Content\Ships\Ship4 fwdThrust.xnb
+Content\Ships\Ship4 revThrust.xnb
+Content\Arial.xnb
+Content\GUI\Buttons\Button1.xnb
+Content\GUI\Buttons\Button2.xnb
+Content\GUI\Buttons\Button3.xnb
